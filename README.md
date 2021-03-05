@@ -4,7 +4,7 @@
   "firstName": "Amanda",
   "lastName": "De Paula",
   "role": "Software Developer",
-  "pronouns": "She/Her/Hers",
+  "pronouns": "She/Her/Hers"
 }
 ```
 
