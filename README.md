@@ -8,7 +8,7 @@
 }
 ```
 
-- 🔭 I’m currently working on building a web app for learning Kanji(漢字)
-- 🌱 I’m currently learning more about TypeScript, and React Native.
+- 🔭 I am currently learning Golang. 
+- 🌱 Constantly improving my TypeScript skills. 
 
 
